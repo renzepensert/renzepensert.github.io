@@ -1,7 +1,7 @@
-#Portfolio Rens Groot
+# Portfolio Rens Groot
 
 
-#Credits:
+# Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
