@@ -3,7 +3,7 @@
 
 ## Credits:
 
-###	Demo Images:
+###	Images:
 		Unsplash (unsplash.com)
 
 ###	Icons:
